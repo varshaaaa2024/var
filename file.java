@@ -34,4 +34,10 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+}  ion calling
+printPattern(n);
+}
+ion calling
+printPattern(n);
+}
+}}
